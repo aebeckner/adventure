@@ -1,0 +1,10 @@
+id,description,up,down,north,south,east,west,img
+1,You're currently in the control center of your spacecraft good ole Betsy. Try taking off!,6,0,2,4,3,5,spaceship.jpg
+2,You've landed on planet Silverton. There's not alot of silver but there's a ton of trouble!,0,0,0,1,8,0,planet1.jpg
+3,You've landed on planet Nuthinmuch. Not much 'round these parts best we head back to the ship.,0,0,0,0,0,1,plant2.jpg
+4,You've landed on the beatiful planet of Get Along Lil Doggy. You're not too sure what a doggy is but that doesn't keep you from exploring.,0,0,1,0,0,9,planet3.jpg
+5,You've landed on planet Deadman. Not too sure how it got it's name but let's not stay and find out!,0,0,0,0,1,0,planet4.jpg
+6,You managed to wander up here to your bedroom. Now is no time to sleep partner! There's evil afoot!,0,1,0,0,7,0,bed.jpg
+7,Now you're in your bathroom. Could you kindly hurry up and take off soon?,0,0,0,0,0,6,bathroom.jpg
+8,You entered the saloon and spot the Martian passed out at the bar from his 10th shot of whiskey! Way to go space cowboy!,0,0,0,0,0,2,saloon.jpg
+9,You've entered the stables and no martian in sight but you see some horses. Oh the pioneers use to ride these babies for miles!,0,0,0,0,4,0,stables.jpg
